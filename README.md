@@ -55,7 +55,7 @@ Projetos em Python: CLI de finanças pessoais, scripts de estudo e automações.
 ![Dev-AllisonG Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-AllisonG&layout=compact&theme=radical)  
 ![Dev-AllisonG Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev-AllisonG&theme=radical)
 
-> Gráficos atualizam automaticamente, mostrando suas linguagens mais usadas e consistência de commits.
+>never stop the work
 
 ---
 
