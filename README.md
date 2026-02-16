@@ -6,17 +6,17 @@ Sou **Desenvolvedor Back-end** e estudante de **Análise e Desenvolvimento de Si
 
 ---
 
-## Sobre mim
+## 💡 Sobre mim
 
 - 🌍 Localização: Poços de Caldas, Minas Gerais, Brasil  
 - 🧑‍💻 Habilidades fortes: **Comunicação e Criatividade**  
 - 🎯 Prefiro trabalhar sozinho em ambientes organizados (laboratório ou home office)  
 - 🎵 Interesses: ciência, tecnologia e música  
-- 💰 Objetivo: crescimento profissional contínuo  
+- 💰 Objetivo: estabilidade financeira e crescimento profissional contínuo  
 
 ---
 
-##  Tecnologias & Skills
+## 🛠️ Tecnologias & Skills
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
@@ -49,12 +49,10 @@ Projetos em Python: CLI de finanças pessoais, scripts de estudo e automações.
 
 ---
 
-##  Estatísticas do GitHub
+## 📈 Estatísticas do GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-AllisonG&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-AllisonG&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
+![Dev-AllisonG GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-AllisonG&show_icons=true&theme=radical)  
+![Dev-AllisonG Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-AllisonG&layout=compact&theme=radical)  
 ![Dev-AllisonG Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev-AllisonG&theme=radical)
 
 > Gráficos atualizam automaticamente, mostrando suas linguagens mais usadas e consistência de commits.
@@ -71,7 +69,7 @@ Projetos em Python: CLI de finanças pessoais, scripts de estudo e automações.
 
 ---
 
-##  Objetivos
+## 🎯 Objetivos
 
 - Criar **projetos reais e impactantes**  
 - Aprofundar conhecimentos em **Python e Java**  
