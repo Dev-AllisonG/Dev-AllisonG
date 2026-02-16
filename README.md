@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Allison Gabriel (Zero/Grid)
 
-![GitHub followers](https://img.shields.io/github/followers/Dev-AllisonG?style=social) ![GitHub stars](https://img.shields.io/github/stars/Dev-AllisonG?style=social) ![GitHub repo count](https://img.shields.io/github/repos/Dev-AllisonG)
+![GitHub followers](https://img.shields.io/github/followers/Dev-AllisonG?style=social) ![GitHub stars](https://img.shields.io/github/stars/Dev-AllisonG?style=social) ![GitHub repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDev-AllisonG&query=%24.public_repos&label=Repos&color=blue&logo=github)
 
 Sou **Desenvolvedor Back-end** e estudante de **Análise e Desenvolvimento de Sistemas (ADS)**. Gosto de aprender programação de forma prática e estruturada, explorando **Python, Java, C++, e C#**.  
 
@@ -18,44 +18,42 @@ Sou **Desenvolvedor Back-end** e estudante de **Análise e Desenvolvimento de Si
 
 ## 🛠️ Tecnologias & Skills
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Progresso de Skills
 
-![Python](https://img.shields.io/badge/Python-57%25-brightgreen)  
-![Java](https://img.shields.io/badge/Java-20%25-yellowgreen)  
-![C++](https://img.shields.io/badge/C++-10%25-orange)  
-![C#](https://img.shields.io/badge/C%23-12%25-red)  
-![Flask](https://img.shields.io/badge/Flask-40%25-red)  
+![Python](https://img.shields.io/badge/Python-50%25-brightgreen?style=flat-square)  
+![Java](https://img.shields.io/badge/Java-27%25-yellowgreen?style=flat-square)  
+![C++](https://img.shields.io/badge/C++-15%25-orange?style=flat-square)  
+![C#](https://img.shields.io/badge/C%23-47%25-red?style=flat-square)  
+![Flask](https://img.shields.io/badge/Flask-60%25-blue?style=flat-square)  
 
 ---
 
-## 📂 Projetos
+## 📂 Projetos em Destaque
 
-### 1️⃣ `cursologicanelioalves`  
-Estudos em **lógica de programação**, exercícios de cálculo, troco, idade e algoritmos de base.  
-**Objetivo:** consolidar fundamentos essenciais de programação.  
+| Projeto | Descrição |
+|---------|-----------|
+| `cursologicanelioalves` | Estudos em **lógica de programação**, exercícios de cálculo, troco, idade e algoritmos de base. |
+| `Projetos-Py` | CLI de finanças pessoais, scripts de estudo e automações em Python. |
 
-### 2️⃣ `Projetos-Py`  
-Projetos em Python: CLI de finanças pessoais, scripts de estudo e automações.  
-**Objetivo:** praticar Python e automatizações para aprendizado prático.  
+**Objetivo:** consolidar fundamentos e praticar desenvolvimento prático.
 
-> 🔗 [Ver todos os meus projetos](https://github.com/Dev-AllisonG?tab=repositories)
+> 🔗 [Ver todos os meus projetos →](https://github.com/Dev-AllisonG?tab=repositories)
 
 ---
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Dev-AllisonG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true) 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-AllisonG&layout=compact&theme=dracula)
-![Dev-AllisonG Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev-AllisonG&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Dev-AllisonG&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dev-AllisonG&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-AllisonG&theme=radical" alt="GitHub Streak"/>
+</p>
 
-> Gráficos atualizam automaticamente, mostrando suas linguagens mais usadas e consistência de commits.
+> *"Never stop the work"*
 
 ---
 
@@ -80,11 +78,11 @@ Projetos em Python: CLI de finanças pessoais, scripts de estudo e automações.
 
 ## 📫 Contato
 
-- ✉ Email: [allison.gabriel.dev@gmail.com](mailto:allison.gabriel.dev@gmail.com)  
-- 🔗 LinkedIn: [Allison Gabriel](https://www.linkedin.com/in/allison-gabriel-5b75b13b0/)  
+[![Email](https://img.shields.io/badge/Email-allison.gabriel.dev%40gmail.com-red?style=flat-square&logo=gmail)](mailto:allison.gabriel.dev@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Allison%20Gabriel-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/allison-gabriel-5b75b13b0/)
 
 ---
 
-<div align="center">
+<p align="center">
   <sub>Feito com ❤️ por Allison Gabriel (Zero/Grid)</sub>
-</div>
+</p>
