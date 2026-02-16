@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou Allison Gabriel (Zero/Grid)
 
-![GitHub followers](https://img.shields.io/github/followers/Dev-AllisonG?style=social) ![GitHub stars](https://img.shields.io/github/stars/Dev-AllisonG?style=social) ![GitHub repo count](https://img.shields.io/github/repos/Dev-AllisonG)
+![GitHub followers](https://img.shields.io/github/followers/Dev-AllisonG?style=social) ![GitHub stars](https://img.shields.io/github/stars/Dev-AllisonG?style=social) ![GitHub repo count](![GitHub followers](https://img.shields.io/github/followers/Dev-AllisonG?label=Followers&style=social)
+)
 
 Sou **Desenvolvedor Back-end** e estudante de **Análise e Desenvolvimento de Sistemas (ADS)**. Gosto de aprender programação de forma prática e estruturada, explorando **Python, Java, C++, e C#**.  
 
