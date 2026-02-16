@@ -27,10 +27,10 @@ Sou **Desenvolvedor Back-end** e estudante de **Análise e Desenvolvimento de Si
 
 ### Progresso de Skills
 
-![Python](https://img.shields.io/badge/Python-90%25-brightgreen)  
-![Java](https://img.shields.io/badge/Java-80%25-yellowgreen)  
-![C++](https://img.shields.io/badge/C++-70%25-orange)  
-![C#](https://img.shields.io/badge/C%23-60%25-red)  
+![Python](https://img.shields.io/badge/Python-50%25-brightgreen)  
+![Java](https://img.shields.io/badge/Java-27%25-yellowgreen)  
+![C++](https://img.shields.io/badge/C++-15%25-orange)  
+![C#](https://img.shields.io/badge/C%23-47%25-red)  
 ![Flask](https://img.shields.io/badge/Flask-60%25-red)  
 
 ---
