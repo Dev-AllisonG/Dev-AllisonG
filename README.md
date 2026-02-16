@@ -47,8 +47,12 @@ Sou **Desenvolvedor Back-end** e estudante de **Análise e Desenvolvimento de Si
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Dev-AllisonG&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dev-AllisonG&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-AllisonG&theme=radical" alt="GitHub Streak"/>
 </p>
