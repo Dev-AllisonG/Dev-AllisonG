@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou Allison Gabriel (Zero/Grid)
 
-![GitHub followers](https://img.shields.io/github/followers/Dev-AllisonG?style=social) ![GitHub stars](https://img.shields.io/github/stars/Dev-AllisonG?style=social) ![GitHub repo count](![GitHub followers](https://img.shields.io/github/followers/Dev-AllisonG?label=Followers&style=social)
-)
+![GitHub followers](https://img.shields.io/github/followers/Dev-AllisonG?style=social) ![GitHub stars](https://img.shields.io/github/stars/Dev-AllisonG?style=social) ![GitHub repo count](https://img.shields.io/github/repos/Dev-AllisonG)
 
 Sou **Desenvolvedor Back-end** e estudante de **Análise e Desenvolvimento de Sistemas (ADS)**. Gosto de aprender programação de forma prática e estruturada, explorando **Python, Java, C++, e C#**.  
 
@@ -13,7 +12,7 @@ Sou **Desenvolvedor Back-end** e estudante de **Análise e Desenvolvimento de Si
 - 🧑‍💻 Habilidades fortes: **Comunicação e Criatividade**  
 - 🎯 Prefiro trabalhar sozinho em ambientes organizados (laboratório ou home office)  
 - 🎵 Interesses: ciência, tecnologia e música  
-- 💰 Objetivo: estabilidade financeira e crescimento profissional contínuo  
+- 💰 Objetivo: crescimento profissional contínuo  
 
 ---
 
@@ -28,10 +27,10 @@ Sou **Desenvolvedor Back-end** e estudante de **Análise e Desenvolvimento de Si
 
 ### Progresso de Skills
 
-![Python](https://img.shields.io/badge/Python-50%25-brightgreen)  
-![Java](https://img.shields.io/badge/Java-27%25-yellowgreen)  
-![C++](https://img.shields.io/badge/C++-15%25-orange)  
-![C#](https://img.shields.io/badge/C%23-47%25-red)  
+![Python](https://img.shields.io/badge/Python-90%25-brightgreen)  
+![Java](https://img.shields.io/badge/Java-80%25-yellowgreen)  
+![C++](https://img.shields.io/badge/C++-70%25-orange)  
+![C#](https://img.shields.io/badge/C%23-60%25-red)  
 ![Flask](https://img.shields.io/badge/Flask-60%25-red)  
 
 ---
@@ -56,7 +55,7 @@ Projetos em Python: CLI de finanças pessoais, scripts de estudo e automações.
 ![Dev-AllisonG Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-AllisonG&layout=compact&theme=radical)  
 ![Dev-AllisonG Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev-AllisonG&theme=radical)
 
->never stop the work
+> Gráficos atualizam automaticamente, mostrando suas linguagens mais usadas e consistência de commits.
 
 ---
 
